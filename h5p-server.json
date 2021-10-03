@@ -1,0 +1,8 @@
+{
+  "libraryDir": "./libraries",
+  "mainLibraryDir": "./h5p-true-false",
+  "contentDir": "./content/h5p-true-false",
+  "host": "localhost",
+  "port": "3000",
+  "images": "./assets/images"
+}

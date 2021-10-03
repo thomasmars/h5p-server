@@ -1,0 +1,15 @@
+{
+  "question": "<p>Our users is our greatest treasure<\/p>\n",
+  "media": {
+    "disableImageZooming": false
+  },
+  "correct": "true",
+  "behaviour": {
+    "enableRetry": true,
+    "enableSolutionsButton": true,
+    "enableCheckButton": true,
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false
+  }
+}

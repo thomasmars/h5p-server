@@ -1,0 +1,7 @@
+version: "3.9"
+
+services:
+  node:
+    build: "."
+    volumes:
+      - ./libraries:/libraries
